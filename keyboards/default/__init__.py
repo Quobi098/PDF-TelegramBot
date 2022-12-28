@@ -1,0 +1,1 @@
+from .menu import eng_menu, ru_menu
